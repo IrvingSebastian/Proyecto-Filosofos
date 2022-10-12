@@ -7,7 +7,7 @@ Proyecto que da solución al problema de la cena de los 5 filósofos
     
 ## Contenido del Repositorio
 - 📂 ZIP del Proyecto Visual Studio 📂
-- 📂 ZIP del Instalador 📂
+- 📂 ZIP del Instalador (Solo como último recurso XD) 📂
 - 📂 En caso de que el Proyecto no abra, descargar del siguiente <a href="https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2013/cc488277(v=vs.120)"> link </a> e instalar los Visual Basic Power Packs 📂
 
 
